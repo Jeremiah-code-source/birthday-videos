@@ -1,4 +1,9 @@
 {
-  "videos": {},
-  "lastUpdated": 1771847439402
+  "videos": {
+    "test-video": {
+      "url": "https://raw.githubusercontent.com/Jeremiah-code-source/birthday-videos/main/videos/test-video_1771847454769.mp4",
+      "timestamp": 1771847469247
+    }
+  },
+  "lastUpdated": 1771847469247
 }

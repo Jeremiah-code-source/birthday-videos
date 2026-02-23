@@ -3,7 +3,11 @@
     "test-video": {
       "url": "https://raw.githubusercontent.com/Jeremiah-code-source/birthday-videos/main/videos/test-video_1771847454769.mp4",
       "timestamp": 1771847469247
+    },
+    "controller3": {
+      "url": "https://raw.githubusercontent.com/Jeremiah-code-source/birthday-videos/main/videos/controller3_1771847538122.mp4",
+      "timestamp": 1771847543241
     }
   },
-  "lastUpdated": 1771847469247
+  "lastUpdated": 1771847543241
 }
